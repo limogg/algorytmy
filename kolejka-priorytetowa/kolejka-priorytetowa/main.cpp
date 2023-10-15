@@ -1,3 +1,4 @@
+// Janicki Piotr
 #include <iostream>
 #include <iomanip>
 #include <ctime>
@@ -171,3 +172,4 @@ int main( )
    }
     
 }
+// Janicki Piotr
