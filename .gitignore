@@ -53,3 +53,9 @@ xcuserdata/
 **/xcshareddata/WorkspaceSettings.xcsettings
 
 # End of https://www.toptal.com/developers/gitignore/api/xcode,c++
+grafy-macierz/.DS_Store
+*.pbxproj
+*.xcworkspacedata
+kolejka-priorytetowa/.DS_Store
+grafy-macierz/grafy-macierz.xcodeproj/project.pbxproj
+kolejka-priorytetowa/.DS_Store
